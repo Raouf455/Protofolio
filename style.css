@@ -24,7 +24,7 @@ header{
 }
 .links{
     text-decoration: none;
-    color: blue;
+    color: red;
 }
 body{
     background-image: url("myimg.png");
