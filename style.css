@@ -14,7 +14,7 @@ header{
     justify-content: space-between;
     padding: 15px;
     margin-bottom: 20px;
-    margin-top: 0px;
+    
     
     
     
@@ -24,7 +24,7 @@ header{
 }
 .links{
     text-decoration: none;
-    color: red;
+    color: blue;
 }
 body{
     background-image: url("myimg.png");
@@ -42,7 +42,7 @@ body{
     border-radius: 18px;
     margin-left: 300px;
      border-radius: 18px;
-    margin-top: 20px;
+    
     
     
     
@@ -76,7 +76,7 @@ margin-top: 30px;
     border-radius: 10px;
     padding-right: 50px;
     padding-left: 50px;
-    font-size: 38px;
+    font-size: 32px;
     transition: 1.5s;
     justify-content: center;
     width: 360px;
